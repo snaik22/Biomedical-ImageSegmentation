@@ -7,6 +7,7 @@ Implementation of [U-Net Convolution Neural Network for Biomedical Image Segment
 * The Neural Network was implemented by using Keras and is showcased in the main.ipynb Jupyter Notebook. It can be easily followed line by line through the code.
 
 ## Result
+The Segmentation resulted in an accuracy of 85.7%. Shown below is the original input image and the resulted image Segmentation.
 <p align="center">
   <img src="TestedOn.png" width="350" height="350" title="TestImage">
   <img src="Segmented.png" width="350" height="350 title="SegmentedOputput">
